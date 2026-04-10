@@ -14,7 +14,7 @@ I’m a frontend developer with strong skills in building modern, responsive, an
 
 - 🌱 Currently improving my React & React Native skills  
 - 🤝 Open to internships, collaborations & freelance work  
-- 📫 Reach me: your@email.com  
+- 📫 Reach me: akuhmaryannne34@gmail.com  
 - 💼 Portfolio: (you can add later)  
 - ⚡ Fun fact: I love building clean and beautiful interfaces  
 
