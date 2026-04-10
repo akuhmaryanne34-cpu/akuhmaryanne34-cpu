@@ -1,3 +1,4 @@
+![Banner](./WhatsApp%20Image%202026-04-10%20at%2013.29.04.jpeg)
 # 👋 Hi, I'm Maryann
 
 ### Frontend Developer • React & React Native • UI Enthusiast
